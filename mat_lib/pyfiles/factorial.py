@@ -6,5 +6,10 @@ def factorial(x):
 
     for i in range(1, x+1):
         ans *= i
-    
+        
+       
     return ans
+    
+    
+    a = 10
+    Print(a)
